@@ -28,5 +28,10 @@ namespace Infrastructure.Repository
             .Include(p=>p.Estados)
             .FirstOrDefaultAsync(p=>p.Id ==id);
         }
+
+        Task IPaisInterface.GetByIdAsync(string id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

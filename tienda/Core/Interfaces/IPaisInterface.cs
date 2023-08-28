@@ -6,7 +6,7 @@ using Core.Entities;
 
 namespace Core.Interfaces;
 
-    public interface IPaisInterface : IGenericRepo<Pais>
-    {
-        
-    }
+public interface IPaisInterface : IGenericRepo<Pais>
+{
+    Task GetByIdAsync(string id);
+}

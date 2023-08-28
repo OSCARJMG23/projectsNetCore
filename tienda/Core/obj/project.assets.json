@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DDR5\\.nuget\\packages\\": {}
+    "C:\\Users\\APT01-49\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DDR5\\projectsNetCore\\tienda\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\APT01-49\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\DDR5\\projectsNetCore\\tienda\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\DDR5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DDR5\\projectsNetCore\\tienda\\Core\\obj\\",
+      "projectPath": "C:\\Users\\APT01-49\\Desktop\\projectsNetCore\\tienda\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\APT01-49\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\APT01-49\\Desktop\\projectsNetCore\\tienda\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DDR5\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\APT01-49\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
